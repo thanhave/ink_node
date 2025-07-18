@@ -1,3 +1,4 @@
+#ready find
 #Readmy
 # Ink Node
 
